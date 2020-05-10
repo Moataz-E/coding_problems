@@ -1,0 +1,19 @@
+#Method 1
+Find middle point of array.      
+                                              
+Find sum of lower part of array and sum of higher part of array.
+               
+Conditions:                                                                    
+    if sum to left < sum to right, then new midpoint is current midpoint       
+    +(array.length - 1 )  / 2                                                  
+    if sum to left > sum to right, then new midpoint is current midpoint / 2   
+    else point is equilibrium
+
+#Method 2
+Find sum of the full array
+
+If first element is equal to total sum, then it is equilibrium point
+
+Else, add current element to next element and do same test.
+
+

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixTheCycles", "FixTheCycles\FixTheCycles.csproj", "{2F447088-B143-4018-8E70-430936F69F20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoRobots", "TwoRobots\TwoRobots.csproj", "{D3FEECD8-7D2F-4178-8435-DA453993F2B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F447088-B143-4018-8E70-430936F69F20}.Debug|x86.ActiveCfg = Debug|x86
+		{2F447088-B143-4018-8E70-430936F69F20}.Debug|x86.Build.0 = Debug|x86
+		{2F447088-B143-4018-8E70-430936F69F20}.Release|x86.ActiveCfg = Release|x86
+		{2F447088-B143-4018-8E70-430936F69F20}.Release|x86.Build.0 = Release|x86
+		{D3FEECD8-7D2F-4178-8435-DA453993F2B1}.Debug|x86.ActiveCfg = Debug|x86
+		{D3FEECD8-7D2F-4178-8435-DA453993F2B1}.Debug|x86.Build.0 = Debug|x86
+		{D3FEECD8-7D2F-4178-8435-DA453993F2B1}.Release|x86.ActiveCfg = Release|x86
+		{D3FEECD8-7D2F-4178-8435-DA453993F2B1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = FixTheCycles\FixTheCycles.csproj
+	EndGlobalSection
+EndGlobal

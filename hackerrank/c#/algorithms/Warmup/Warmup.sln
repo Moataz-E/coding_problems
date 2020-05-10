@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVeryBigSum", "AVeryBigSum\AVeryBigSum.csproj", "{9D624A08-3643-4C48-A2E5-EA066B2962D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{C83EC166-2AC2-47C9-A59A-C844F2E87ED9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleArraySum", "SimpleArraySum\SimpleArraySum.csproj", "{D167F1C2-2C11-47B8-8271-B891C6549FCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolveMeFirst", "SolveMeFirst\SolveMeFirst.csproj", "{BC7AC6CD-FDCC-48D2-AE6C-5B3758022B46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusMinus", "PlusMinus\PlusMinus.csproj", "{0EB888F7-D8B9-46D1-A42C-03AE82543CC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staircase", "Staircase\Staircase.csproj", "{63EDBDA4-2BB7-46CF-8689-E3BD12D2D100}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeConversion", "TimeConversion\TimeConversion.csproj", "{AA938088-BF41-4B4B-9A75-CB3CF8528AE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EB888F7-D8B9-46D1-A42C-03AE82543CC7}.Debug|x86.ActiveCfg = Debug|x86
+		{0EB888F7-D8B9-46D1-A42C-03AE82543CC7}.Debug|x86.Build.0 = Debug|x86
+		{0EB888F7-D8B9-46D1-A42C-03AE82543CC7}.Release|x86.ActiveCfg = Release|x86
+		{0EB888F7-D8B9-46D1-A42C-03AE82543CC7}.Release|x86.Build.0 = Release|x86
+		{63EDBDA4-2BB7-46CF-8689-E3BD12D2D100}.Debug|x86.ActiveCfg = Debug|x86
+		{63EDBDA4-2BB7-46CF-8689-E3BD12D2D100}.Debug|x86.Build.0 = Debug|x86
+		{63EDBDA4-2BB7-46CF-8689-E3BD12D2D100}.Release|x86.ActiveCfg = Release|x86
+		{63EDBDA4-2BB7-46CF-8689-E3BD12D2D100}.Release|x86.Build.0 = Release|x86
+		{9D624A08-3643-4C48-A2E5-EA066B2962D3}.Debug|x86.ActiveCfg = Debug|x86
+		{9D624A08-3643-4C48-A2E5-EA066B2962D3}.Debug|x86.Build.0 = Debug|x86
+		{9D624A08-3643-4C48-A2E5-EA066B2962D3}.Release|x86.ActiveCfg = Release|x86
+		{9D624A08-3643-4C48-A2E5-EA066B2962D3}.Release|x86.Build.0 = Release|x86
+		{AA938088-BF41-4B4B-9A75-CB3CF8528AE3}.Debug|x86.ActiveCfg = Debug|x86
+		{AA938088-BF41-4B4B-9A75-CB3CF8528AE3}.Debug|x86.Build.0 = Debug|x86
+		{AA938088-BF41-4B4B-9A75-CB3CF8528AE3}.Release|x86.ActiveCfg = Release|x86
+		{AA938088-BF41-4B4B-9A75-CB3CF8528AE3}.Release|x86.Build.0 = Release|x86
+		{BC7AC6CD-FDCC-48D2-AE6C-5B3758022B46}.Debug|x86.ActiveCfg = Debug|x86
+		{BC7AC6CD-FDCC-48D2-AE6C-5B3758022B46}.Debug|x86.Build.0 = Debug|x86
+		{BC7AC6CD-FDCC-48D2-AE6C-5B3758022B46}.Release|x86.ActiveCfg = Release|x86
+		{BC7AC6CD-FDCC-48D2-AE6C-5B3758022B46}.Release|x86.Build.0 = Release|x86
+		{C83EC166-2AC2-47C9-A59A-C844F2E87ED9}.Debug|x86.ActiveCfg = Debug|x86
+		{C83EC166-2AC2-47C9-A59A-C844F2E87ED9}.Debug|x86.Build.0 = Debug|x86
+		{C83EC166-2AC2-47C9-A59A-C844F2E87ED9}.Release|x86.ActiveCfg = Release|x86
+		{C83EC166-2AC2-47C9-A59A-C844F2E87ED9}.Release|x86.Build.0 = Release|x86
+		{D167F1C2-2C11-47B8-8271-B891C6549FCA}.Debug|x86.ActiveCfg = Debug|x86
+		{D167F1C2-2C11-47B8-8271-B891C6549FCA}.Debug|x86.Build.0 = Debug|x86
+		{D167F1C2-2C11-47B8-8271-B891C6549FCA}.Release|x86.ActiveCfg = Release|x86
+		{D167F1C2-2C11-47B8-8271-B891C6549FCA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = TimeConversion\TimeConversion.csproj
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+		$0.TextStylePolicy = $2
+		$2.FileWidth = 120
+		$2.TabsToSpaces = False
+		$2.inheritsSet = VisualStudio
+		$2.inheritsScope = text/plain
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.ElseIfNewLinePlacement = SameLine
+		$3.BeforeMethodDeclarationParentheses = False
+		$3.AfterDelegateDeclarationParameterComma = True
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/x-csharp
+		$3.scope = text/x-csharp
+	EndGlobalSection
+EndGlobal

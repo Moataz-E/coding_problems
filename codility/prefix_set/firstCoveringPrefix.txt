@@ -1,0 +1,12 @@
+Go through array and create a set of all elements seen.
+
+while set isn't empty, go through array removing all seen elements.
+
+Maintain a counter during the while loop, so once it stop the counter
+represents the first covering prefix.
+
+
+Solution notes:
+nlogn because as we loop, we remove elements from the set we are searching. This
+results in a smaller search space at hence an nlogn runtime instead n^2
+
