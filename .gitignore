@@ -550,4 +550,4 @@ dmypy.json
 /practice_env
 
 # Ignore vscode settings file
-*./vscode
+.vscode/
