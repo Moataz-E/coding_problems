@@ -548,3 +548,6 @@ dmypy.json
 
 # Ignore Python Virtual Environment
 /practice_env
+
+# Ignore vscode settings file
+*./vscode
