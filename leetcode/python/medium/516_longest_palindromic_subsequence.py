@@ -57,6 +57,19 @@ class LongestPalindromeSubseq:
     def substrings(self, s: str):
         """Return all contiguous substrings of a string.
         
+        Example:
+            substrings("moataz") ->
+                ["m", "mo", "moa", "moat", "moata", "moataz",
+                 "o", "oa", "oat", "oata", "oataz",
+                 "a", "at", "ata", "ataz",
+                 "t", "ta", "taz",
+                 "a", "az"
+                 "z"
+                ]
+
+        The above will be sorted by length of the string in ascending order, but
+        it is written as such for illustration prupose only.
+        
         Args:
             s: str, for which we want to find all substrings
 
